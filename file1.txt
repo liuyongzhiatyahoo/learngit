@@ -1,3 +1,4 @@
 File 1.txt
 A new file.
 stage commit and push this new changes.
+repeat stage commit and push from a duplicated (this) vm.
